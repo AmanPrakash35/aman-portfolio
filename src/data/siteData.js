@@ -10,7 +10,14 @@ export const navItems = [
 export const skillCategories = [
   {
     title: "Programming Languages",
-    skills: ["JavaScript", "Python", "Java", "SQL", "TypeScript"],
+    skills: [
+      "Java",
+      "Spring Boot",
+      "JavaScript",
+      "Python",
+      "SQL",
+      "TypeScript",
+    ],
   },
   {
     title: "Frameworks & Tools",
